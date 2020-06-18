@@ -1,3 +1,3 @@
-# Vanilla JavaScript App
+# Profile
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+![Azure Static Web Apps CI/CD](https://github.com/timmeh87/azure-profile/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
